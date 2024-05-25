@@ -98,16 +98,16 @@ h1, h2, h3, h4, h5, h6, p{
   font-size: 30px;
 }
 
-#minuSum{
+#minusSum{
   background-color: #e74c3c;
 }
 
-#plusuSum{
+#pluSum{
   background-color: #00feb5;
 }
 
-#minuSum,
-#plusuSum{
+#minusSum,
+#pluSum{
   width: 50px;
   height: 50px;
   cursor: pointer;
@@ -136,9 +136,10 @@ h1, h2, h3, h4, h5, h6, p{
   background: #5650ae;
 }
 
-.totalperperson{
+.people_per_person{
   background-color: #11111b;
   margin-bottom: 0px;
+  display: none;
 }
 
 .people_per_person div{
